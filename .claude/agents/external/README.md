@@ -9,7 +9,7 @@ external/
 ├── README.md (this file)
 └── wshobson/
     ├── ATTRIBUTION.md
-    └── [44 agent files]
+    └── [74 agent files]
 ```
 
 ## Usage
